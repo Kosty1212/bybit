@@ -3,7 +3,7 @@
 Symbol: AGLD | Network: ERC20 | Withdrawal fee: 6.76
 Symbol: MATIC | Network: MATIC | Withdrawal fee: 0.1
 Symbol: MATIC | Network: ERC20 | Withdrawal fee: 10
-Symbol: MATIC | Network: BSC (BEP20) | Withdrawal fee: 1
+Symbol: MATIC | Network: BSC (d) | Withdrawal fee: 1
 Symbol: AGLA | Network: ERC20 | Withdrawal fee: 50
 Symbol: AGLA | Network: SOL | Withdrawal fee: 10
 Symbol: APT | Network: APTOS | Withdrawal fee: 0.01
